@@ -24,7 +24,6 @@ depends=(
 
 optdepends=(
     'ocl-icd: OpenCL support'
-    'opencl-nvidia: NVIDIA OpenCL support'
 )
 
 source=(

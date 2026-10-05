@@ -17,7 +17,6 @@ pkgbase = aftershotpro3
 	depends = hyphen
 	depends = woff2
 	optdepends = ocl-icd: OpenCL support
-	optdepends = opencl-nvidia: NVIDIA OpenCL support
 	noextract = AfterShotPro3-system-QT.deb
 	noextract = libqt5webkit5.deb
 	noextract = libicu67.deb

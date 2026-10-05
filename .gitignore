@@ -1,0 +1,13 @@
+# makepkg output
+src/
+pkg/
+*.pkg.tar.*
+*.pkg.tar.*.sig
+
+# Downloaded upstream packages
+*.deb
+*.rpm
+*.rpm.part
+
+# makepkg download leftovers
+*.part
